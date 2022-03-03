@@ -1,0 +1,5 @@
+I am testing Git
+
+Git is Pretty Cool
+
+I wish I had more time to spend learning this stuff!
